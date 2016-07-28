@@ -1608,6 +1608,10 @@ room.town-hall .pulse,
 room.town-hall .pin {
   top: 40%;
 }
+room.woodshed {
+  height: 42px;
+  width: 85px;
+}
 room.mapped .label {
   background-color: #df5640 !important;
 }
